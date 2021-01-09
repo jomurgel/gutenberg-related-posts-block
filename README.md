@@ -8,6 +8,3 @@ Also utilizes a [loader](https://github.com/jomurgel/react-loader-component) and
 
 ## References
 A [codepen](https://codepen.io/jomurgel/pen/MVjdgW?editors=0010) practice search/scroll which was rolled into this component.
-
-## Notice
-**No Longer Supported** In favor of work I've done over on the https://github.com/WebDevStudios/wds-gutenberg/
